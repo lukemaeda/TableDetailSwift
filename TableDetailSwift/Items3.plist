@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>BMW01</string>
+		<key>Note</key>
+		<string>BMW白</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+		<string>BMW02</string>
+		<key>Note</key>
+		<string>BMW黒</string>
+    </dict>
+    <dict>
+		<key>Name</key>
+		<string>BMW03</string>
+		<key>Note</key>
+		<string>BMW赤</string>
+    </dict>
+    <dict>
+		<key>Name</key>
+		<string>BMW04</string>
+		<key>Note</key>
+		<string>BMW黄色</string>
+    </dict>
+    <dict>
+		<key>Name</key>
+		<string>BMW05</string>
+		<key>Note</key>
+		<string>BMW青</string>
+	</dict>
+</array>
+</plist>
